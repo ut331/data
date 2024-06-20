@@ -1,0 +1,11 @@
+source,action,target
+NOPROCESSNAME_1848,executed,NOPROCESSNAME
+NOPROCESSNAME_516,fork,NOPROCESSNAME_1848
+tiles-cloudfront.cdn.mozilla.net,web_request,tiles-cloudfront.cdn.mozilla.net/images/b18c52ee5445fb37ed466d695f7e018efd0ad58f.95655.png
+tiles-cloudfront.cdn.mozilla.net,web_request,tiles-cloudfront.cdn.mozilla.net/images/779e35acbfe52553d7f36add885732a12ec95476.39795.png
+tiles-cloudfront.cdn.mozilla.net,web_request,tiles-cloudfront.cdn.mozilla.net/images/12abda9be001265d0721947e520149fb781562b8.10301.png
+tiles-cloudfront.cdn.mozilla.net,web_request,tiles-cloudfront.cdn.mozilla.net/images/0152ecdf5b18e095d255486b18c3f6a04ba6300e.27260.png
+tiles-cloudfront.cdn.mozilla.net,web_request,tiles-cloudfront.cdn.mozilla.net/images/af34c0541c6cdff392ec4414cb5949fa7012271d.17141.png
+www.google.com,web_request,www.google.com/
+google.com,web_request,google.com/
+tiles-cloudfront.cdn.mozilla.net/images/12abda9be001265d0721947e520149fb781562b8.10301.png,web_request,tiles-cloudfront.cdn.mozilla.net/images/12abda9be001265d0721947e520149fb781562b8.9.png
